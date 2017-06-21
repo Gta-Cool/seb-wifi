@@ -1,0 +1,7 @@
+!#/bin/bash
+
+sudo ./ndiswrapper -i driver/netrtwlanu.inf
+
+sudo ./ndiswrapper -l
+
+sudo ./ndiswrapper -m
